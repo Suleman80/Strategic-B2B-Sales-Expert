@@ -2,7 +2,7 @@
 
 ## 📌 About This Course
 
-This course documents my personal development journey toward becoming a strategic B2B sales expert, combining my consultative selling experience with modern tools and methodologies. The course focuses on consultative selling skills, value-based deal closing, and leveraging AI to improve sales efficiency.
+This course documents my personal development journey toward becoming a strategic B2B sales expert, combining my consultative selling experience with modern tools and methodologies. The course focuses on consultative selling skills, value-based deal closing, and leveraging AI to improve sales efficiency, all within the context of effective cross-functional collaboration.
 
 ## 🛠️ Course Structure
 
@@ -24,7 +24,16 @@ This course documents my personal development journey toward becoming a strategi
 - [ ] Lesson 5: Value-based Negotiation Techniques
 - **Project:** Interactive ROI Model for Business Solutions using Excel/Looker Studio
 
-### 🔹 Module 3: AI-Enhanced Sales Toolbox
+### 🔹 Module 3: Sales-Marketing-Product Alignment (NEW)
+
+- [ ] Lesson 1: Understanding the Marketing-to-Sales Pipeline
+- [ ] Lesson 2: Extracting Maximum Value from Marketing Qualified Leads
+- [ ] Lesson 3: Effective Communication with Marketing & Product Teams
+- [ ] Lesson 4: Co-creating Content & Materials with Marketing
+- [ ] Lesson 5: Feedback Loops: Bringing Customer Voice to Product Development
+- **Project:** Marketing-Sales Alignment Framework and Communication Templates
+
+### 🔹 Module 4: AI-Enhanced Sales Toolbox
 
 - [ ] Lesson 1: AI in Prospect Research & Qualification
 - [ ] Lesson 2: Using AI to Optimize Sales Messaging
@@ -33,7 +42,7 @@ This course documents my personal development journey toward becoming a strategi
 - [ ] Lesson 5: AI in Forecasting & Pipeline Analysis
 - **Project:** AI Prompts & Workflows Library using Claude/ChatGPT and Make
 
-### 🔹 Module 4: Modern Sales Tech Stack
+### 🔹 Module 5: Modern Sales Tech Stack
 
 - [ ] Lesson 1: Advanced CRM Utilization (HubSpot, Salesforce)
 - [ ] Lesson 2: Sales Intelligence & Engagement Platforms
@@ -42,19 +51,19 @@ This course documents my personal development journey toward becoming a strategi
 - [ ] Lesson 5: Sales Process Analysis & Optimization Tools
 - **Project:** Digital Sales Room with Gamma and interactive presentations
 
-### 🔹 Module 5: Business Acumen & Solution Understanding
+### 🔹 Module 6: Business Acumen & Solution Understanding
 
 - [ ] Lesson 1: SaaS Business Models & Monetization Strategies
 - [ ] Lesson 2: Understanding Client Business Processes & Solution Mapping
-- [ ] Lesson 3: Basics of System Integration & Solution Architecture
+- [ ] Lesson 3: Working with Marketing to Build Strong Value Propositions
 - [ ] Lesson 4: Security & Compliance in Enterprise Sales
 - [ ] Lesson 5: Technology Trends & Their Impact on Client Business
 - **Project:** Solution-to-Business Process Mapping Framework using visualization tools
 
-### 🔹 Module 6: Industry Specializations
+### 🔹 Module 7: Industry Specializations
 
-- [ ] Track A: Enterprise SaaS & Cloud Solutions
-- [ ] Track B: FinTech & Financial Services
+- [ ] Track A: Marketing Technology & Agency Solutions
+- [ ] Track B: Enterprise SaaS & Cloud Solutions
 - [ ] Track C: Business Process Automation
 - [ ] Track D: Manufacturing & Logistics Solutions
 - [ ] Track E: Professional Services Automation
@@ -74,7 +83,8 @@ This course documents my personal development journey toward becoming a strategi
 - [ ] Salesforce Certified Sales Cloud Associate (Planned May 2025)
 - [ ] LinkedIn Sales Navigator (Planned June 2025)
 - [ ] SPIN Selling (Planned July 2025)
-- [ ] AWS Cloud Practitioner (Optional Q3 2025)
+- [ ] Hubspot Marketing Software (Optional Q3 2025)
+- [ ] AWS Cloud Practitioner (Optional Q4 2025)
 
 ## 🛠️ Key Tools
 
@@ -85,6 +95,14 @@ This course documents my personal development journey toward becoming a strategi
 - Miro/Lucidchart (process and stakeholder mapping)
 - LinkedIn Sales Navigator (prospecting and research)
 - Discovery Canvas (structured discovery)
+
+**Marketing & Sales Alignment:**
+
+- Marketing Automation Platforms (HubSpot, Marketo basics)
+- Content Management Systems (basic understanding)
+- Sales Enablement Tools (Seismic, Highspot concepts)
+- Lead Scoring Models
+- Account-Based Marketing Collaboration
 
 **Presentation & Communication:**
 
@@ -120,6 +138,6 @@ This course supports development toward several sales-related roles:
 - **Sales Manager / Business Development Manager**
 - **Strategic Account Manager / Key Account Manager**
 - **Revenue Growth Manager**
-- **Solution Consultant / Sales Engineer** (business-focused)
-- **Customer Success Manager** (sales-oriented)
+- **Sales Development Manager**
+- **Director of Sales**
 - **Sales Enablement Specialist**

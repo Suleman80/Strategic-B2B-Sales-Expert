@@ -12,6 +12,7 @@ I combine an enthusiastic, light communication style with proven deal-closing ef
 
 - **Consultative Selling**: Advanced discovery techniques but without the corporate speak
 - **Value Storytelling**: Making ROI tangible through real-world examples, not just spreadsheets
+- **Cross-Functional Collaboration**: Breaking down silos between sales, marketing, and product
 - **AI-Enhanced Efficiency**: Letting the robots handle the boring stuff while I focus on what matters
 - **Modern Presentations**: Using tools like Gamma to create stories, not slides
 
@@ -20,6 +21,7 @@ I combine an enthusiastic, light communication style with proven deal-closing ef
 - Gamma & Beautiful.ai for presentations that don't put people to sleep
 - Jasper AI & Claude/ChatGPT for content that sounds like a human wrote it
 - Salesforce & LinkedIn Navigator for finding the right people and staying organized
+- HubSpot for seamless marketing-to-sales pipeline optimization
 - Obsidian & GitHub for keeping my knowledge base actually useful
 
 ## 👋 Let's Connect!
@@ -27,7 +29,3 @@ I combine an enthusiastic, light communication style with proven deal-closing ef
 - **LinkedIn**: [linkedin.com/in/sulikowskipiotr](https://linkedin.com/in/sulikowskipiotr)
 - **GitHub**: [github.com/Suleman80](https://github.com/Suleman80)
 - **Email**: pio.sul@gmail.com
-
----
-
-_Check out [COURSE.md](https://claude.ai/chat/COURSE.md) for the detailed learning plan if you're curious about the details!_
