@@ -1,12 +1,12 @@
 # ✨ Strategic B2B Sales Expert
 
-Hey there! I'm combining my 15+ years of international B2B experience with the latest AI tools to create a modern sales approach that actually works. No fluff, just results.
+Hey there! I'm leveraging my 15+ years of international B2B experience with the latest AI tools to create a modern sales approach that actually works. No fluff, just results.
 
 ## 🚀 What's This All About?
 
-I'm blending what I already do well (connecting with people and closing deals) with what machines do well (analyzing data and automating repetitive tasks). The result? More time for what matters in sales - understanding clients and solving their problems.
+I transform siloed departments into unified growth engines by connecting sales strategy with marketing insights and product capabilities. My approach frees up time for what truly matters in sales - understanding clients and solving their business problems. 
 
-I combine an enthusiastic, light communication style with proven deal-closing effectiveness - that sweet spot between building genuine rapport and driving business outcomes.
+I bring together an enthusiastic, light communication style with proven deal-closing effectiveness - that sweet spot between building genuine rapport and driving measurable business outcomes.
 
 ## 💡 My Approach in a Nutshell
 
@@ -16,13 +16,13 @@ I combine an enthusiastic, light communication style with proven deal-closing ef
 - **AI-Enhanced Efficiency**: Letting the robots handle the boring stuff while I focus on what matters
 - **Modern Presentations**: Using tools like Gamma to create stories, not slides
 
-## 🛠️ Cool Tools I'm Using
+## 🛠️ Key Tools I'm Using
 
-- Gamma & Beautiful.ai for presentations that don't put people to sleep
-- Jasper AI & Claude/ChatGPT for content that sounds like a human wrote it
-- Salesforce & LinkedIn Navigator for finding the right people and staying organized
-- HubSpot for seamless marketing-to-sales pipeline optimization
-- Obsidian & GitHub for keeping my knowledge base actually useful
+- **HubSpot** for RevOps excellence and aligning marketing with sales processes
+- **AI Assistants** (Claude/ChatGPT) for enhancing client communications and automating research
+- **LinkedIn Sales Navigator** for strategic account insights and engagement
+- **Modern Presentation Tools** (Gamma/Beautiful.ai) for creating compelling value stories
+- **Knowledge Management** (Obsidian/GitHub) for documenting frameworks and best practices
 
 ## 👋 Let's Connect!
 
