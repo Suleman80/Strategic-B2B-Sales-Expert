@@ -12,8 +12,8 @@ I bring together an enthusiastic, light communication style with proven deal-clo
 
 - **Consultative Selling**: Advanced discovery techniques but without the corporate speak
 - **Value Storytelling**: Making ROI tangible through real-world examples, not just spreadsheets
-- **Cross-Functional Collaboration**: Breaking down silos between sales, marketing, and product
-- **AI-Enhanced Efficiency**: Letting the robots handle the boring stuff while I focus on what matters
+- **Cross-Functional Collaboration (RevOps)**: Breaking down silos between sales, marketing, and product
+- **AI-Enhanced Efficiency**: Letting the AI tools make the entire sales process smoother and more effective
 - **Modern Presentations**: Using tools like Gamma to create stories, not slides
 
 ## 🛠️ Key Tools I'm Using
